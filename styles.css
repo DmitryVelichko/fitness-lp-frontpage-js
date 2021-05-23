@@ -6,3 +6,10 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
+
+section {
+    position: absolute;
+    right: 0;
+}
+
+git commit -m "Add Styles"
