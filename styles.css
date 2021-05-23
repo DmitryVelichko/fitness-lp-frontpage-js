@@ -10,6 +10,8 @@
 section {
     position: absolute;
     right: 0;
+    width: 100%;
+    min-height: 100vh;
+
 }
 
-git commit -m "Add Styles"
