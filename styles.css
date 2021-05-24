@@ -19,3 +19,7 @@ section {
     background: #111; 
     transition: 2.5s;
 }
+
+header {
+ position: absolute;   
+}
