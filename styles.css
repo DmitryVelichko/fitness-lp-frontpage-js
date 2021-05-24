@@ -16,6 +16,6 @@ section {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-
+    background: #111; 
+    transition: 2.5s;
 }
-
