@@ -48,3 +48,8 @@ header .logo {
     cursor: pointer;
 }
 
+section video {
+    position: absolute;
+    top: 0;
+
+}
