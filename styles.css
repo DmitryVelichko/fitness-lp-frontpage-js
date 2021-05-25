@@ -58,3 +58,6 @@ section video {
     object-fit: cover;
 }
 
+.overlay {
+    position: absolute;
+}
