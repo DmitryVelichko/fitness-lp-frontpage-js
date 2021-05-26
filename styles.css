@@ -108,4 +108,14 @@ section video {
     font-weight: 500;
     margin-top: 10px;
     color: #111;
+    letter-spacing: 2px;
+}
+
+.sci {
+    position: absolute;
+    z-index: 10;
+    bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
