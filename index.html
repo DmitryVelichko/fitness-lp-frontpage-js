@@ -20,7 +20,7 @@
     <section class="banner">
         <header>
             <h2 class="logo">Your Logo</h2>
-            <div class="toggle"></div>
+            <div class="toggle" onclick="toggleMenu();"></div>
         </header>
         <video src="video.mp4" muted loop autoplay></video>
         <div class="overlay"></div>
@@ -39,7 +39,10 @@
         </ul>
     </section>
     <script type="text/javascript">
-
+        function toggleMenu() {
+            let menuToggle = document.querySelector('.toggle');
+            menuToggle.classList.toggle('active');
+        }
     </script>
 </body>
 </html>
