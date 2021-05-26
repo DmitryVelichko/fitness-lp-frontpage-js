@@ -135,3 +135,30 @@ section video {
     margin-left: -17px;
 }
 
+.menu {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 300px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #fff;
+}
+
+.menu ul {
+    position: relative;
+}
+
+.menu ul li {
+    position: relative;
+    list-style: none;
+    text-align: center;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    font-size: 24px;
+    color: #111;
+}
