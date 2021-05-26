@@ -119,3 +119,19 @@ section video {
     justify-content: center;
     align-items: center;
 }
+
+.sci li {
+    list-style: none;
+}
+
+.sci li a {
+    display: inline-block;
+    margin-right: 20px;
+    filter: invert(1);
+    transform: scale(0.5);
+}
+
+.insta-img {
+    margin-left: -17px;
+}
+
