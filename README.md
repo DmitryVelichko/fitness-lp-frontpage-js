@@ -2,7 +2,4 @@ First screen of the Fitness landing page with background video and menu. Built w
 
 Check the site out: https://dmitryvelichko.github.io/fitness-lp-frontpage-js/
 
-![Uploading image.png…]()
-
-![Uploading image.png…]()
 
